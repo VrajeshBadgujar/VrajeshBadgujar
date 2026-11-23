@@ -1,6 +1,6 @@
 👋 Hi, I'm Vrajesh Badgujar
 
-💻 Software AI Engineer II passionate about building impactful software
+💻 Software AI Engineer | passionate about building impactful software
 
 🤖 Currently learning and experimenting with Agentic AI
 
