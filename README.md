@@ -6,7 +6,7 @@
 
 ⚙️ Exploring C#, .NET, SQL Server, AI Agents and modern software architecture
 
-🏃 Half Marathon & 30K Trail Run Finisher | Training for Vadodara International Marathon 2027
+🏃 Half Marathon & 30K Trail Run Finisher | Training for Vadodara International Marathon
 
 ⚡ Tech enthusiast who enjoys solving problems and continuous learning
 
